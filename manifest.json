@@ -1,8 +1,8 @@
 {
-	"name": "Custom Krunker Mod",
-	"version": "69.420",
+	"name": "Krunker Clean Ui",
+	"version": "1.0",
 	"manifest_version": 2,
-	"description": "Custom Krunker Mod",
+	"description": "A cleaner ui for krunker.io",
 	"permissions": [
 		"webRequest",
 		"webRequestBlocking",
